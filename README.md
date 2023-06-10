@@ -1,3 +1,3 @@
 # call_me
 
-A new Flutter project.
+Video chat USing Flutter WbRTC.
